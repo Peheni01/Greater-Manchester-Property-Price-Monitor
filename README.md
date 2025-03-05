@@ -40,7 +40,9 @@ The dataset used in this project was obtained from the **UK Price Paid Dataset (
 - **Line Chart** Shows **monthly sales trends** from 2019-2022, revealing seasonal variations in the market.  
 - **Histogram** depicts the **distribution of property prices**, highlighting skewness in the dataset.  
 - **Map Visualization** displays **regional sales variations** across Greater Manchester districts.  
-- **Column Chart** groups properties into **price brackets**, helping investors analyze price ranges.  
+- **Column Chart** groups properties into **price brackets**, helping investors analyze price ranges.
+[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/60f3b8f5-8940-4827-99cb-9a84f7535960/ReportSection?experience=power-bi)
+  
 
 ## Results & Findings  
 - Sales peaked in June 2021, while the lowest sales occurred in May 2020.  
@@ -66,4 +68,3 @@ For **Policymakers**:
 ## References  
 - [UK Property Price Paid - Dataset](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)  
 - [UK Property Price Paid - Metadata](https://www.gov.uk/guidance/about-the-price-paid-data)
-- [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/60f3b8f5-8940-4827-99cb-9a84f7535960/ReportSection?experience=power-bi)
