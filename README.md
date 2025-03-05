@@ -37,12 +37,13 @@ The dataset used in this project was obtained from the **UK Price Paid Dataset (
 - **Missing Data Handling** - Addressed missing locality information and ensured proper indexing in SQL tables.  
 
 ## Data Analysis & Dashboard Design  
-- **Line Chart** Shows **monthly sales trends** from 2019-2022, revealing seasonal variations in the market.  
+- **Line Chart** shows **monthly sales trends** from 2019-2022, revealing seasonal variations in the market.  
 - **Histogram** depicts the **distribution of property prices**, highlighting skewness in the dataset.  
 - **Map Visualization** displays **regional sales variations** across Greater Manchester districts.  
 - **Column Chart** groups properties into **price brackets**, helping investors analyze price ranges.
-[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/60f3b8f5-8940-4827-99cb-9a84f7535960/ReportSection?experience=power-bi)
-  
+
+📊 Live Dashboard  
+🔗 [View the Greater Manchester Property Price Monitor Dashboard](https://app.powerbi.com/groups/me/reports/60f3b8f5-8940-4827-99cb-9a84f7535960/ReportSection?experience=power-bi)
 
 ## Results & Findings  
 - Sales peaked in June 2021, while the lowest sales occurred in May 2020.  
