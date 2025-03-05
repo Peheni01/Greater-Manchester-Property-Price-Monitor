@@ -4,10 +4,10 @@ This project presents a Power BI-based reporting solution for analyzing the Grea
 
 ### Key features
 
-- Sales Trend Analysis: Line charts displaying monthly property sales over time.
-- Property Price Distribution: A histogram showing the distribution of property prices.
-- Sales Volume Analysis: A column chart representing property sales in different price ranges.
-- Geospatial Insights: A map displaying the distribution of sales across Greater Manchester.
+- Sales Trend Analysis - Line charts displaying monthly property sales over time.
+- Property Price Distribution - A histogram showing the distribution of property prices.
+- Sales Volume Analysis - A column chart representing property sales in different price ranges.
+- Geospatial Insights - A map displaying the distribution of sales across Greater Manchester.
 The dashboard provides actionable insights into the local property market, assisting investors, policy makers, and developers in making informed decisions.
 
 ### Links
