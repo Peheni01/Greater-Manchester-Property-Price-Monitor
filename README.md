@@ -2,6 +2,12 @@
 
 This project presents a Power BI-based reporting solution for analyzing the Greater Manchester property market. By leveraging the UK Price Paid Dataset (2019-2022), the dashboard allows users to explore property sales trends, price distribution, and sales volumes across various property types. The data is imported from Microsoft SQL Server, and SQL views are created for efficient querying and visualization. 
 
+### Tools & Technologies  
+- Microsoft SQL Server - Database Management   
+- Power BI - Data Visualization & Reporting 
+- SQL, Power Query - Data Processing & Transformation
+- SQL - Programming Language
+
 ### Key features
 
 - Sales Trend Analysis - Line charts displaying monthly property sales over time.
